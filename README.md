@@ -9,7 +9,7 @@ This project explores and analyzes clinical data to identify key factors influen
 - Perform exploratory data analysis to identify patterns and correlations.
 - Visualize insights for better interpretation by doctors or researchers.
 - Lay the groundwork for future predictive modeling.
-- 
+  
 ## 🧠 Technologies Used
 - Python
 - Pandas, NumPy
